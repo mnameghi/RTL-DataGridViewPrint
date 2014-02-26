@@ -1,5 +1,6 @@
-RTL DataGridViewPrint provides simple right-to-left capability for printing a windows form datagridview content.By this way reporting is fast and simple. Your report printed with PrintDocument component.
+### RTL DataGridViewPrint
 
+RTL DataGridViewPrint provides simple right-to-left capability for printing a windows form datagridview content.By this way reporting is fast and simple. Your report printed with PrintDocument component.
 
 ## Quick start
 
