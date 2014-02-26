@@ -44,6 +44,6 @@ If you want a feature or a bug fixed, [report it via project's issues tracker](h
 
 ## Copyright and license
 
-This code released under [the MIT license](LICENSE). Docs released under [Creative Commons](docs/LICENSE).
+This code released under [the MIT license](LICENSE).
 
 
